@@ -42,14 +42,22 @@ background: #780000;border-radius: 10px}
 .icono3 {height: 50px; background: #780000;border-radius: 10px;margin-left: 2px;}
 .icono4{height: 50px; background: #780000;border-radius: 10px;margin-left: 2px;}
 
-.personaje1{height: 100px;background-color: #C1121F;border-radius: 50px;margin-left: 2px; margin-right: 2px;}
-.personaje2{height: 100px;background-color: #C1121F;border-radius: 50px;margin-left: 2px; margin-right: 2px;}
-.personaje4{height: 100px;background-color: #C1121F;border-radius: 50px;margin-left: 2px; margin-right: 2px;}
-.personaje5{height: 100px;background-color: #C1121F;border-radius: 50px;margin-left: 2px; margin-right: 2px;}
-.personaje6{height: 100px;background-color: #C1121F;border-radius: 50px;margin-left: 2px; margin-right: 2px;}
-.personaje7{height: 100px;background-color: #C1121F;border-radius: 50px;margin-left: 2px; margin-right: 2px;}
-.personaje8{height: 100px;background-color: #C1121F;border-radius: 50px;margin-left: 2px; margin-right: 2px;}
-.personaje9{height: 100px;background-color: #C1121F;border-radius: 50px;margin-left: 2px; margin-right: 2px;}
+.personaje1{height: 100px;width: 100px; background-color: #C1121F;border-radius: 50%;margin:auto;}
+.personaje1:hover{height: 120px;width: 120px;}
+.personaje2{height: 100px;width: 100px; background-color: #C1121F;border-radius: 50%;margin-left: auto; margin-right: auto;}
+.personaje2:hover{height: 120px;width: 120px;}
+.personaje4{height: 100px;width: 100px; background-color: #C1121F;border-radius: 50%;margin:auto;}
+.personaje4:hover{height: 120px;width: 120px;}
+.personaje5{height: 100px;width: 100px; background-color: #C1121F;border-radius: 50%;margin-left: auto; margin-right: auto;}
+.personaje5:hover{height: 120px;width: 120px;}
+.personaje6{height: 100px;width: 100px; background-color: #C1121F;border-radius: 50%;margin:auto;}
+.personaje6:hover{height: 120px;width: 120px;}
+.personaje7{height: 100px;width: 100px; background-color: #C1121F;border-radius: 50%;margin-left: auto; margin-right: auto;}
+.personaje7:hover{height: 120px;width: 120px;}
+.personaje8{height: 100px;width: 100px; background-color: #C1121F;border-radius: 50%;margin:auto;}
+.personaje8:hover{height: 120px;width: 120px;}
+.personaje9{height: 100px;width: 100px; background-color: #C1121F;border-radius: 50%;margin-left: auto; margin-right: auto;}
+.personaje9:hover{height: 120px;width: 120px;}
 
 .caja7 {background-color: #669BBC;border-radius: 20px;margin-left: 2px; margin-right: 2px;}
 .caja6{background-color: #669BBC;border-radius: 20px;margin-left: 2px; margin-right: 2px;}
