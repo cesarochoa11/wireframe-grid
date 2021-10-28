@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #FDF0D5;
+	color: #003049;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.header p{
+	font-size: 2em;
+	text-align: center;
+	padding: 20px 0;
+}
+
+.contenedor{
+	width: 100%;
+	margin: auto;
+	font-size: 1em;
+	line-height: 300px;
+	text-align: center;
+
+}
+
+.contenedor > div{
+	display: block;
+	padding: 20px;
+	color: #f5f6fa;
+	box-shadow: 2px 2px 10px rgba(0,0,0,.25)
+
+
+}
+.footer{height: 150px;}
+
+.isologotipo {height: 50px;
+background: #780000;}
+.icono {height: 50px; background: #780000;}
+.icono2 {height: 50px; background: #780000;}
+.icono3 {height: 50px; background: #780000;}
+.icono4{height: 50px; background: #780000;}
+
+.personaje1{height: 100px;background-color: #C1121F;}
+.personaje2{height: 100px;background-color: #C1121F;}
+.personaje4{height: 100px;background-color: #C1121F;}
+.personaje5{height: 100px; background-color: #C1121F;}
+.personaje6{height: 100px; background-color: #C1121F;}
+.personaje7{height: 100px;background-color: #C1121F;}
+.personaje8{height: 100px;background-color: #C1121F;}
+.personaje9{height: 100px;background-color: #C1121F;}
+
+.caja7 {background-color: #669BBC;}
+.caja6{background-color: #669BBC;}
+.caja5{background-color: #669BBC;}
+.caja4{background-color: #669BBC;}
+.caja3{background-color: #003049;}
+.caja2{background-color: #003049;}
+.caja{background-color: #003049;}
+
+.footer{background: #780000;}
